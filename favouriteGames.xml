@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<favouriteGames>
+	<game>Test
+		<title> Overwatch </title>
+        <company> Blizzard Entertainment </company>
+		<year> 2016 </year>
+		<genre> First Person Shooter </genre>
+        <rating> 13/15 </rating>
+        <platform> PC </platform>
+	</game>
+	<game>
+		<title> World of Warcraft </title>
+        <company> Blizzard Entertainment </company>
+		<year> 2004 </year>
+		<genre> MMORPG </genre>
+        <rating> 12/15 </rating>
+        <platform> PC </platform>
+	</game>
+	<game>Test2
+		<title> Rocket League </title>
+        <company> Psyonix </company>
+		<year> 2015 </year>
+		<genre> Sports </genre>
+        <rating> 13/15 </rating>
+        <platform> PC </platform>
+	</game>
+	<game>
+		<title> Cities: Skylines </title>
+        <company> Colossal Order </company>
+		<year> 2015 </year>
+		<genre> City Building </genre>
+        <rating> 10/15 </rating>
+        <platform> PC </platform>
+	</game>
+	<game>
+	    <title> New Super Mario Bros </title>
+        <company> Nintendo </company>
+		<year> 2006 </year>
+		<genre> Platformer </genre>
+        <rating> 14/15 </rating>
+        <platform> Nintendo DS Lite </platform>
+	</game>
+</favouriteGames>
